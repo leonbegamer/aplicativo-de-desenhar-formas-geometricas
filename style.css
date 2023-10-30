@@ -1,0 +1,11 @@
+span
+{
+ font-size: 18px;
+ color: black;
+}
+
+canvas
+{
+ background: rgb(71, 71, 71);
+ border-radius: 30px;
+}
